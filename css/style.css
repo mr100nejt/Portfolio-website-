@@ -179,32 +179,32 @@ p {
     color: #129CF3;
 }
 
-.header-iphone img {
+.header-Me img {
     width: 100%;   
 }
 
 /* ========= About Us ============= */
-.choose-us-wraper {
+.About-me-wraper {
 
     padding-top: 50px;
 }
 
-.about-iphone img {
+.About-me img {
  margin-top: 8px;    
 }
-.choose-us-title {
+.choose-me-title {
     padding-bottom: 50px;
     
     
 }
-.choose-us-title h2 {
+.choose-me-title h2 {
     text-transform: uppercase;
     font-weight: 800;
     font-size: 30px;
     line-height: 37px;
     position: relative;
 }
-.choose-us-title h2:after {
+.choose-me-title h2:after {
     content: "";
     position: absolute;
     bottom: -12px;
@@ -214,23 +214,23 @@ p {
     background-color: #129CF3;
 }
 
-.choose-us-title p {
+.choose-me-title p {
     margin-top: 40px;
     font-size: 19px;
     line-height: 24px;
 }
 
-.choose-us-item {
+.choose-me-item {
     position: relative;
     padding-bottom: 4px;
     padding-left: 80px;
 }
-.choose-us-item div {
+.choose-me-item div {
     position: absolute;
     top: 0;
     left: 0;
 }
-.choose-us-item div i {
+.choose-me-item div i {
     font-size: 55px;
     color: #129CF3;
     transition: all 1s;
@@ -238,19 +238,19 @@ p {
     -o-transition: all 1s;
     -moz-transition: all 1s;
 }
-.choose-us-item h3 {
+.choose-me-item h3 {
  color: #343434;
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 800;
 }
 
-.choose-us-item p {
+.choose-me-item p {
     color: #727272;
     font-size: 15px;
 } 
-/* ========= Testimonials ============= */
-.testimonial {
+/* ========= Testimonials/Projects ============= */
+.projects {
     background-image: url("../images/projects.jpeg");
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -260,7 +260,7 @@ p {
     -webkit-background-size: cover;
     background-position: 50% 50%;
 }
-.testimonial-overlay {
+.projects-overlay {
     background-color: rgba(31, 31, 31, .75);
     padding-top: 80px;
     padding-bottom: 80px;
@@ -273,16 +273,16 @@ p {
     border-radius: 50%;
     padding: 3px;
 }
-.testimonial-caption {
+.projects-caption {
     padding-bottom: 70px;
 }
-.testimonial-caption ul {
+.projects-caption ul {
     color: #D8D8D8;
     font-style: italic;
     font-weight: 300;
 
 }
-.testimonial-caption h2 {
+.projects-caption h2 {
     color: #129CF3;
     text-transform: uppercase;
     font-weight: 900;
@@ -290,11 +290,11 @@ p {
     margin-top: 25px;
     
 }
-.testimonial-caption h4 {
+.projects-caption h4 {
     color: #129CF3;
 }
 
-.testimonial-caption h4 span {
+.projects-caption h4 span {
     
     color: #D8D8D8;
     font-style: italic;
@@ -302,7 +302,7 @@ p {
     
 }
 
-.testimonial-caption p {
+.projects-caption p {
     color: #D8D8D8;
     font-size: 18px;
     line-height: 27px;

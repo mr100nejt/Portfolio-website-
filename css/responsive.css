@@ -6,7 +6,7 @@
         background-color: #fff !important;
         border-color: #e6e6e6;
     }
-    .about-iphone img {
+    .about-me img {
         width: 100%;
     }
     .purchase-now .col-md-3 {
@@ -19,7 +19,7 @@
 /* Small Devices And Tablets */
 @media only screen and (max-width: 768px) {
     
-    .header-iphone {
+    .header-me {
         display: none;
     }
     .header-text, .header-btns {
